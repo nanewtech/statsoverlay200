@@ -81,13 +81,13 @@ function updateStats() {
     }
 
     // Fetch player stats from the API
-    fetch(`https://cors-anywhere.herokuapp.com/https://200-lounge.com/api/player/${playerName}`)
+    fetch(`https://api.allorigins.win/raw?url=https://200-lounge.com/api/player/${playerName}`)
         .then(response => response.json())
         .then(dataArray => {
             let data = dataArray[0];
+            console.log(data.mmr)
             let statsContainer = document.getElementById("stats");
 
-            console.log(data.mmr);
 
             // Check if MMR has changed and the name is valid
             if (storedMmr != data.mmr && data.mmr !== "Invalid Name") {
