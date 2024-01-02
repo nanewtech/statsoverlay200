@@ -1,16 +1,16 @@
-# [statsoverlay200]()
+# [statsoverlay200](https://nanewtech.github.io/statsoverlay200/)
 ## CREDITS TO [@PRISMILLON](https://github.com/prismillon) FOR MAKING THE ORIGINAL WEBSITE!
 
 This is merely an alternative version of the [prismillon statsoverlay](https://statsoverlay.prismillon.com) which neatly displays rank and mmr of the user
 
 # Usage
-#### When opening the Link to the Website [nanewtech.github.io/statsoverlay200]() you will see this exact page
+#### When opening the Link to the Website [nanewtech.github.io/statsoverlay200](https://nanewtech.github.io/statsoverlay200/) you will see this exact page
 ![usageimg1](https://media.discordapp.net/attachments/658233158961201162/1191532403123032104/image.png?ex=65a5c806&is=65935306&hm=c9007488433586422f20edbde397a02c98592046ca18d93d58f446a9565a7278&=&format=webp&quality=lossless)
 
 As mentioned in the screenshot, you should now add your **200 Lounge** username to the end of the link in the following format
 
 ```
-nanewtech.github.io/statsoverlay200?name=<YOUR_LOUNGE_NAME_HERE>
+nanewtech.github.io/statsoverlay200/?name=<YOUR_LOUNGE_NAME_HERE>
 ```
 When you have added your username enter the page and it will look something like this:
 ![usageimg](https://media.discordapp.net/attachments/658233158961201162/1191534327767519322/image.png?ex=65a5c9d1&is=659354d1&hm=d8226938c7927a610cf3eb11f5d5aac3699975e7dec7b48a812440212e4953fb&=&format=webp&quality=lossless)
