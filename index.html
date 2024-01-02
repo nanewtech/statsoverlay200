@@ -81,7 +81,7 @@ function updateStats() {
     }
 
     // Fetch player stats from the API
-    fetch(`https://200-lounge.com/api/player/${playerName}`)
+    fetch(`https://cors-anywhere.herokuapp.com/https://200-lounge.com/api/player/${playerName}`)
         .then(response => response.json())
         .then(dataArray => {
             let data = dataArray[0];
