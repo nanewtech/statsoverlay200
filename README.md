@@ -1,7 +1,7 @@
 # [statsoverlay200](https://nanewtech.github.io/statsoverlay200/)
 ## CREDITS TO [@PRISMILLON](https://github.com/prismillon) FOR MAKING THE ORIGINAL WEBSITE!
 
-This is merely an alternative version of the [prismillon statsoverlay](https://statsoverlay.prismillon.com) which neatly displays rank and mmr of the user
+This is merely an alternative version for 200 Lounge of the [prismillon statsoverlay](https://github.com/prismillon/statsoverlay) which neatly displays rank and mmr of the user
 
 # Usage
 #### When opening the Link to the Website [nanewtech.github.io/statsoverlay200](https://nanewtech.github.io/statsoverlay200/) you will see this exact page
@@ -20,7 +20,7 @@ the browser source should look something like this:
 
 ![usageimg3](https://media.discordapp.net/attachments/658233158961201162/1191535004568784896/image.png?ex=65a5ca72&is=65935572&hm=e734aab860fbb097c621ca69dcbde0167d3ba3618a9a3e6c5c8ffb3f03cd6abd&=&format=webp&quality=lossless&width=658&height=676)
 
-AFter pressing OK you can now position the overlay into any position and resize it to any size you see fit. one such usecase could look like this:
+After pressing OK you can now position the overlay into any position and resize it to any size you see fit. one such usecase could look like this:
 
 ![usageimg4](https://media.discordapp.net/attachments/658233158961201162/1191535388884467744/image.png?ex=65a5cace&is=659355ce&hm=343c71146122c928af8791419e972f9871c39ce8cb8b1907eaaa74e68593a57c&=&format=webp&quality=lossless)
 
